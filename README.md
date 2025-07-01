@@ -6,7 +6,7 @@ This repository contains research code for evaluating the effectiveness of groun
 
 This code accompanies the following paper:
 
-Burton, H. V., and Baker, J. W. (2023). "Evaluating the effectiveness of ground motion intensity measures through the lens of causal inference." *Earthquake Engineering & Structural Dynamics*, 52(15), 4842–4864.
+Burton, H. V., and Baker, J. W. (2023). "Evaluating the effectiveness of ground motion intensity measures through the lens of causal inference." *Earthquake Engineering & Structural Dynamics*, 52(15), 4842–4864. http://doi.org/10.1002/eqe.3983
 
 ## Authors
 
